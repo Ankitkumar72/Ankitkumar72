@@ -35,18 +35,13 @@ I’m a Computer Science student and a developer driven by the intersection of *
 ---
 
 ### ⚡ Fun Facts & Interests
-- 🏍️ **Gearhead:** Big fan of the **Royal Enfield Continental GT 650**.
+- 🏍️ **Gearhead:** Big fan of the **Cricket**.
 - 🏛️ **History Buff:** Deeply interested in the Indian Independence movement.
 - 🌍 **Geography:** Ask me about the countries on the Equator or the Prime Meridian!
 - 📸 **Content Creator:** Building a presence on **YouTube** and **Instagram**.
 
 ---
 
-### 📈 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkumar72&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkumar72&layout=compact&theme=tokyonight" width="300" />
-</p>
 
 ### 📫 Let's Connect!
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Ankitkumar2856)
