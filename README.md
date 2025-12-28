@@ -28,9 +28,9 @@ I’m a Computer Science student and a developer driven by the intersection of *
 ### 📁 Featured Repositories
 
 * **[AI Song Builder](https://github.com/Ankitkumar72/ai-song-builder)** - An experimental project integrating AI and cloud deployment.
-* **[Flutter Music Player](https://github.com/Ankitkumar72/Music-Player)** - A cross-platform mobile application focused on UI/UX.
+* **[Flutter Music Player](https://github.com/Ankitkumar72/music_app)** - A cross-platform mobile application focused on UI/UX.
 * **[CMREC Blockchain Club](https://github.com/Ankitkumar72/CMREC---BlockChain)** - Web interface for the campus blockchain community.
-* **[Java GUI Game](https://github.com/Ankitkumar72/Java_Gui_Game)** - Classic gaming logic implemented with Java Swing.
+* **[Java GUI Game](https://github.com/Ankitkumar72/Flappy_Bird)** - Classic gaming logic implemented with Java Swing.
 
 ---
 
