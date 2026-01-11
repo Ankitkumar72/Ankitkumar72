@@ -35,7 +35,6 @@ I’m a Computer Science student and a developer driven by the intersection of *
 ---
 
 ### ⚡ Fun Facts & Interests
-- 🏍️ **Gearhead:** Big fan of the **Cricket**.
 - 🏛️ **History Buff:** Deeply interested in the Indian Independence movement.
 - 🌍 **Geography:** Ask me about the countries on the Equator or the Prime Meridian!
 - 📸 **Content Creator:** Building a presence on **YouTube** and **Instagram**.
