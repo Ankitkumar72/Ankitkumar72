@@ -39,9 +39,7 @@ A collaborative web application where users influence AI-generated music in real
 
 ---
 
-### 📈 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitkumar72&show_icons=true&theme=radical)
 
 ---
 
