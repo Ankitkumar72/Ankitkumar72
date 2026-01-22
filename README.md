@@ -1,50 +1,58 @@
-# Hi, I'm Ankit Kumar 👋
+# 👋 Hi, I'm Ankit Kumar
 
-### 👨‍💻 Full-Stack Developer | Flutter Enthusiast | CDS Aspirant
+### Software Developer | Generative AI Enthusiast | Flutter Developer
 
-I’m a Computer Science student and a developer driven by the intersection of **clean code** and **creative design**. Whether I'm building mobile apps in Flutter or designing 3D assets in Blender, I thrive on solving complex problems.
-
----
-
-### 🚀 What I’m Working On
-- 🎵 **Music Player App:** Building a sleek, high-performance music player using **Flutter**.
-- 🤖 **AI Song Builder:** Currently deploying an AI-powered music generation tool using **AWS**.
-- 🎖️ **Personal Growth:** Training for the **CDS OTA** (Officers' Training Academy).
-- 🦴 **Recovery:** Documenting my journey back to fitness after RTA surgery—resilience is my current project.
+I am a Computer Science Engineering student based in Secunderabad, India, with a deep interest in building autonomous systems and high-performance applications. Currently, I'm focused on developing **agentic AI workflows** and refining mobile user experiences.
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🚀 Featured Projects
 
-| Category | Skills |
+#### 🏠 [PropFlow](https://github.com/Ankitkumar72) 
+**Autonomous Property Maintenance Orchestration Engine**
+An AI-powered system designed to handle property maintenance requests autonomously.
+- **Tech Stack:** LangGraph, Python, Gemini 1.5 Pro.
+- **Key Features:** Implements a multi-agent architecture (Triage, Knowledge, and Execution agents) with a "Dead Man's Switch" for human-in-the-loop financial approvals.
+
+#### 🎵 [Pixy](https://github.com/Ankitkumar72/music_app)
+**High-Performance Flutter Music Player**
+A sleek, Material 3-inspired music player focused on speed and customization.
+- **Tech Stack:** Flutter, Dart, Hive (NoSQL).
+- **Key Features:** Local music indexing with Hive for near-instant loading, custom accent color themes, Sleep Timer, and advanced Audio Focus management.
+
+#### 🎸 [AI Song Builder](https://github.com/Ankitkumar72)
+**Multiplayer Real-Time Music Generation**
+A collaborative web application where users influence AI-generated music in real-time.
+- **Tech Stack:** Node.js, Socket.io, AWS.
+- **Key Features:** Real-time lyric submission, crowd-voting on AI-generated versions (Chill/Hype/Bass), and synchronized playback across all connected clients.
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, Java, Dart, JavaScript |
-| **Frameworks** | Flutter, Node.js, HTML5/CSS3 |
-| **Tools & Cloud** | AWS, Git/GitHub, IntelliJ IDEA, VS Code |
-| **Design** | Blender (3D Modeling), UI/UX Design |
+| **Languages** | Python, C++, Java, Dart, JavaScript (Node.js) |
+| **AI & Frameworks** | LangChain, LangGraph, LLMs (Gemini, GPT), Flutter |
+| **Backend & Tools** | Firebase, Hive, Socket.io, AWS, Git, Linux |
+| **Web Dev** | HTML5, CSS3, JavaScript |
 
 ---
 
-### 📁 Featured Repositories
+### 📈 GitHub Stats
 
-* **[AI Song Builder](https://github.com/Ankitkumar72/ai-song-builder)** - An experimental project integrating AI and cloud deployment.
-* **[Flutter Music Player](https://github.com/Ankitkumar72/music_app)** - A cross-platform mobile application focused on UI/UX.
-* **[CMREC Blockchain Club](https://github.com/Ankitkumar72/CMREC---BlockChain)** - Web interface for the campus blockchain community.
-* **[Java GUI Game](https://github.com/Ankitkumar72/Flappy_Bird)** - Classic gaming logic implemented with Java Swing.
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitkumar72&show_icons=true&theme=radical)
 
 ---
 
-### ⚡ Fun Facts & Interests
-- 🏛️ **History Buff:** Deeply interested in the Indian Independence movement.
-- 🌍 **Geography:** Ask me about the countries on the Equator or the Prime Meridian!
-- 📸 **Content Creator:** Building a presence on **YouTube** and **Instagram**.
+### 🌏 Beyond the Code
+- **History & Geography:** I have a strong interest in Indian history and global geography.
+- **Fitness:** Passionate about strength training and physique development.
+- **Learning:** Currently diving deeper into memory-efficient data structures and competitive programming.
 
 ---
 
-
-### 📫 Let's Connect!
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Ankitkumar2856)
-[<img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://ankitkumar72.github.io/Portfolio/)
-
----
-*"Discipline is the bridge between goals and accomplishment."*
+### 📫 Connect with Me
+- **Portfolio:** [ankitkumar72.github.io/Portfolio](https://ankitkumar72.github.io/Portfolio/)
+- **Instagram:** [@Ankitkumar2856](https://www.instagram.com/Ankitkumar2856)
+- **LinkedIn:** [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-b35179239/)
