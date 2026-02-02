@@ -20,7 +20,7 @@ A sleek, Material 3-inspired music player focused on speed and customization.
 - **Tech Stack:** Flutter, Dart, Hive (NoSQL).
 - **Key Features:** Local music indexing with Hive for near-instant loading, custom accent color themes, Sleep Timer, and advanced Audio Focus management.
 
-#### 🎸 [AI Song Builder](https://github.com/Ankitkumar72)
+#### 🎸 [AI Song Builder](https://github.com/Ankitkumar72/ai-song-builder)
 **Multiplayer Real-Time Music Generation**
 A collaborative web application where users influence AI-generated music in real-time.
 - **Tech Stack:** Node.js, Socket.io, AWS.
