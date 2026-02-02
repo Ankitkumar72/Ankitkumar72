@@ -8,7 +8,7 @@ I am a Computer Science Engineering student based in Secunderabad, India, with a
 
 ### 🚀 Featured Projects
 
-#### 🏠 [PropFlow](https://github.com/Ankitkumar72) 
+#### 🏠 [PropFlow](https://github.com/Ankitkumar72/Gatex) 
 **Autonomous Property Maintenance Orchestration Engine**
 An AI-powered system designed to handle property maintenance requests autonomously.
 - **Tech Stack:** LangGraph, Python, Gemini 1.5 Pro.
