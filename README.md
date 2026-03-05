@@ -34,7 +34,7 @@ Synq is a full-featured productivity application that integrates **task manageme
 
 The project is built using a **feature-first architecture with Riverpod state management** and leverages Firebase for secure cloud services.
 
-- **Tech Stack:** Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore, Hive
+- **Tech Stack:** Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore, SQLite
 
 - **Key Highlights**
   - Implemented **feature-first modular architecture** for scalable code organization
