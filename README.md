@@ -26,6 +26,28 @@ A collaborative web application where users influence AI-generated music in real
 - **Tech Stack:** Node.js, Socket.io, AWS.
 - **Key Features:** Real-time lyric submission, crowd-voting on AI-generated versions (Chill/Hype/Bass), and synchronized playback across all connected clients.
 
+#### 🧠 [Synq](https://github.com/Ankitkumar72/synq)
+
+**Offline-First Productivity Platform Built with Flutter**
+
+Synq is a full-featured productivity application that integrates **task management, structured note-taking, and deep work tracking** within a single modular architecture. The application emphasizes **scalability, offline reliability, and responsive UI performance**.
+
+The project is built using a **feature-first architecture with Riverpod state management** and leverages Firebase for secure cloud services.
+
+- **Tech Stack:** Flutter, Dart, Riverpod, Firebase Authentication, Cloud Firestore, Hive
+
+- **Key Highlights**
+  - Implemented **feature-first modular architecture** for scalable code organization
+  - Built **offline-first data layer** using Hive with automatic cloud synchronization
+  - Designed **custom synchronization coordinator** (`FirebaseSyncCoordinator`) to ensure reliable multi-device data consistency
+  - Integrated **secure authentication flows** with Email/Password and Google OAuth
+  - Developed **real-time task and notes system** backed by Firestore streams
+  - Implemented **Focus Mode productivity engine** with timer tracking and task progress monitoring
+  - Built **dynamic dashboard system** that intelligently prioritizes upcoming tasks
+  - Implemented **subscription architecture** supporting feature gating for Pro users
+
+Synq demonstrates strong experience with **state management, scalable Flutter architecture, real-time data systems, and cross-device synchronization**.
+
 ---
 
 ### 🛠️ Technical Toolbox
